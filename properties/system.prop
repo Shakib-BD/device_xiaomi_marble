@@ -9,3 +9,7 @@ persist.vendor.camera.ois.video=1
 
 # Xiaomi
 ro.product.mod_device=marble_global
+
+# scroll-optimizer
+persist.sys.perf.scroll_opt=true
+persist.sys.perf.scroll_opt.heavy_app=1
